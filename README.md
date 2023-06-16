@@ -1,18 +1,31 @@
-# KPMG Data Analytics Virtual Program
+# KPMG Data Analytics Virtual Internship
 
-This repository contains my submission for the Data Analytics Program offered by KPMG Australia, which is designed to demystify big data and teach individuals how to achieve business outcomes with the KPMG data analytics team.
+## Introduction
 
-## Task 01 - Data Quality Assessment
+Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The project is mainly divided into three tasks:
 
-The first task involved assessing the quality and completeness of the data to prepare it for analysis. Using Python libraries Pandas and Numpy, I identified issues and provided a solution through an email.
+## Task 1: Data Quality Assessment
+#### Assessment of data quality and completeness in preparation for analysis
 
-## Task 02 - Data Insights
+The client provided KPMG with 3 datasets:
 
-For the second task, I utilized Python to conduct RFM clustering on customer data, allowing me to target high-value customers based on their demographics and attributes.
+* Customer Demographic 
+* Customer Addresses
+* Transactions data in the past 3 months
 
-## Task 03 - Data Insights and Presentation
+Performed the preliminary data exploration using Microsoft Excel and identified ways to improve the quality of Sprocket Central Pty Ltd’s data.
 
-For the third task, I created visualizations using PowerBI to convey the insights gained from the data analysis. Although the fully interactive dashboard allows the user to view the properties of each segment, I have only included the PDF version in this repository due to technical difficulties.
+## Task 2: Data Insights
+#### Targeting high value customers based on customer demographics and attributes.
+
+* In building this recommendation, we started with a PowerPoint presentation which outlined the approach which we will be taking. 
+* The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
+* Prepared a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting.
+
+## Task 3: Data Insights and Presentation
+#### Using visualisations to present insights
+
+Developed a dashboard using Power BI that displays the data summary and results of the analysis.
 
 ## Reference
 [Forage - KPMG Data Analytics Virtual Internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)
